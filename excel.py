@@ -22,6 +22,6 @@ def transpose_excel(input_file, output_file):
     transposed_wb.save(output_file)
 
 # Example usage
-input_file_path = 'test10rows.xlsx'
-output_file_path = 'output1.xlsx'
+input_file_path = 'test5000rows.xlsx'
+output_file_path = 'output2.xlsx'
 transpose_excel(input_file_path, output_file_path)
