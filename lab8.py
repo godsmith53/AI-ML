@@ -22,7 +22,7 @@ print ("\n----------------------------------------------------------------------
 print ('%-25s %-25s %-25s' % ('Original Label', 'Predicted Label', 'Correct/Wrong'))
 print ("-------------------------------------------------------------------------")
 for label in ytest:
-    print ('%-25s %-25s' % (label, ypred[i]), end="")
+    print ('%-25s %-25s' % (label, ypred[i]), end="")  
     if (label == ypred[i]):
         print (' %-25s' % ('Correct'))
     else:

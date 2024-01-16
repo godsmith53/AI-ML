@@ -33,7 +33,8 @@ y_cluster_gmm = gmm_model.predict(X)
 plt.subplot(1, 3, 3)
 plt.title('GMM Classification')
 plt.scatter(X.Petal_Length, X.Petal_Width, c=np.array(['red', 'lime', 'black'])[y_cluster_gmm])
-plt.show()
+
 
 print('Accuracy score of GMM:', metrics.accuracy_score(y, y_cluster_gmm))
 print('Confusion matrix of GMM:\n', metrics.confusion_matrix(y, y_cluster_gmm))
+plt.show()

@@ -1,6 +1,6 @@
 import csv
 
-with open("CandidateElimination.csv") as f:
+with open("enjoysport (3)-2.csv") as f:
     csv_file = csv.reader(f)
     data = list(csv_file)
 
