@@ -1,0 +1,45 @@
+DIFFERENCE: tpl-excel1.xlsx | test-excel1.xlsx
+Cell_Location               BaseTemplate_Value          CurrentFile_Value
+           F6                              123                          1
+           B8                          2914075                    2914014
+           D8                             Null                   WaveLite
+           A9 NI - Optical Fiber Networks (BU) NI - Optical Networks (BU)
+           F9                          0.84807                   20.84807
+          C10                              NaN        2023-02-22 17:45:38
+          F10                               99                     3.3923
+          C13             04-27-2023  22:49:04        2023-07-04 22:49:04
+          D13                         WaveLite                   1830 ONE
+          F13                           25.724                      2.724
+          B14                           999099                    3160819
+          E16                          0.84807                         99
+
+DIFFERENCE: tpl-excel2.xlsx | test-excel2.xlsx
+Cell_Location               BaseTemplate_Value          CurrentFile_Value
+           F6                              123                          1
+           B8                          2914075                    2914014
+           D8                             Null                   WaveLite
+           A9 NI - Optical Fiber Networks (BU) NI - Optical Networks (BU)
+           F9                          0.84807                   20.84807
+          C10                              NaN        2023-02-22 17:45:38
+          F10                               99                     3.3923
+          C13             04-27-2023  22:49:04        2023-07-04 22:49:04
+          D13                         WaveLite                   1830 ONE
+          F13                           25.724                      2.724
+          B14                           999099                    3160819
+          E16                          0.84807                         99
+
+DIFFERENCE: tpl-excel3.xlsx | test-excel3.xlsx
+Cell_Location               BaseTemplate_Value          CurrentFile_Value
+           F6                              123                          1
+           B8                          2914075                    2914014
+           D8                             Null                   WaveLite
+           A9 NI - Optical Fiber Networks (BU) NI - Optical Networks (BU)
+           F9                          0.84807                   20.84807
+          C10                              NaN        2023-02-22 17:45:38
+          F10                               99                     3.3923
+          C13             04-27-2023  22:49:04        2023-07-04 22:49:04
+          D13                         WaveLite                   1830 ONE
+          F13                           25.724                      2.724
+          B14                           999099                    3160819
+          E16                          0.84807                         99
+
